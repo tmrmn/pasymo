@@ -5,6 +5,6 @@ The research project PaSyMo is located at the Institute for Applied Research (Ia
 
 See [Wiki](https://github.com/tmrmn/pasymo/wiki) for more Information!
 
-![alt text](https://github.com/tmrmn/pasymo/blob/master/Pasymo_1%20©%20Eckenbach%20IaF%20FH%20Potsdam.jpg)
+![alt text](https://github.com/tmrmn/pasymo/blob/master/Pasymo_2%20©%20Eckenbach%20IaF%20FH%20Potsdam.jpg)
 
 [![Pasymo Video](pasymoVid.png)](https://vimeo.com/285110972 "Pasymo Video - Click to Watch!")
